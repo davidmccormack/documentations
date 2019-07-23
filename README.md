@@ -11,6 +11,7 @@
 ## Testing and Development
 * [Git](https://git-scm.com/)
 * [Jest.js](https://jestjs.io/)
+* [Enzyme](https://airbnb.io/enzyme/)
 * [Travis](https://travis-ci.org/)
 
 ## Tools
