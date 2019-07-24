@@ -9,11 +9,15 @@
 * [MongoDB](https://docs.mongodb.com/)
 * [Mongoose](https://mongoosejs.com/)
 
-## Testing and Development
+## Testing and Maintenance
 * [Git](https://git-scm.com/)
 * [Jest.js](https://jestjs.io/)
 * [Enzyme](https://airbnb.io/enzyme/)
 * [Travis](https://travis-ci.org/)
 
-## Tools
+## Security and Authentication
+* [Passport.js](http://www.passportjs.org/)
+* [bcrypt](https://www.npmjs.com/package/bcrypt)
+
+## IDEs and Tools
 * [VS Code](https://code.visualstudio.com/docs)
