@@ -8,6 +8,7 @@
 * [Express.js](http://expressjs.com/)
 * [MongoDB](https://docs.mongodb.com/)
 * [Mongoose](https://mongoosejs.com/)
+* [Nodemon](https://www.npmjs.com/package/nodemon)
 
 ## Testing and Maintenance
 * [Git](https://git-scm.com/)
