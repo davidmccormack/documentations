@@ -14,6 +14,7 @@
 * [Jest.js](https://jestjs.io/)
 * [Enzyme](https://airbnb.io/enzyme/)
 * [Travis](https://travis-ci.org/)
+* [Flow](https://flow.org/)
 
 ## Security and Authentication
 * [Passport.js](http://www.passportjs.org/)
