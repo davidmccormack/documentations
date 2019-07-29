@@ -2,6 +2,8 @@
 ## Front End
 * [React.js](https://reactjs.org/)
 * [Redux](https://redux.js.org/)
+* [Axios](https://github.com/axios/axios)
+* [MaterialUI](https://material-ui.com/)
 
 ## Back End
 * [Node.js](https://nodejs.org/en/)
