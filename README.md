@@ -5,6 +5,7 @@
 * [Redux](https://redux.js.org/)
 * [Axios](https://github.com/axios/axios)
 * [MaterialUI](https://material-ui.com/)
+* [React-Vis](https://uber.github.io/react-vis/)
 
 ## Back End
 * [Node.js](https://nodejs.org/en/)
