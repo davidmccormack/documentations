@@ -20,6 +20,8 @@
 * [Enzyme](https://airbnb.io/enzyme/)
 * [Travis](https://travis-ci.org/)
 * [Flow](https://flow.org/)
+* [Supertest](https://www.npmjs.com/package/supertest)
+* [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 
 ## Security and Authentication
 * [Passport.js](http://www.passportjs.org/)
